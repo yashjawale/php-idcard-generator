@@ -1,0 +1,22 @@
+[03-Aug-2019 08:19:09 UTC] PHP Notice:  Undefined index: firstname in /home/jagadishdeore77/public_html/project/image.php on line 5
+[03-Aug-2019 08:19:09 UTC] PHP Warning:  imagecreatefromjpeg(.jpeg): failed to open stream: No such file or directory in /home/jagadishdeore77/public_html/project/image.php on line 8
+[03-Aug-2019 08:19:09 UTC] PHP Notice:  Undefined index: firstname in /home/jagadishdeore77/public_html/project/image.php on line 16
+[03-Aug-2019 08:19:09 UTC] PHP Notice:  Undefined index: lastname in /home/jagadishdeore77/public_html/project/image.php on line 16
+[03-Aug-2019 08:19:09 UTC] PHP Notice:  Undefined index: email in /home/jagadishdeore77/public_html/project/image.php on line 17
+[03-Aug-2019 08:19:09 UTC] PHP Notice:  Undefined index: phone in /home/jagadishdeore77/public_html/project/image.php on line 18
+[03-Aug-2019 08:19:09 UTC] PHP Notice:  Undefined index: district in /home/jagadishdeore77/public_html/project/image.php on line 19
+[03-Aug-2019 08:19:09 UTC] PHP Notice:  Undefined index: village in /home/jagadishdeore77/public_html/project/image.php on line 20
+[03-Aug-2019 08:19:09 UTC] PHP Notice:  Undefined index: date in /home/jagadishdeore77/public_html/project/image.php on line 21
+[03-Aug-2019 08:19:09 UTC] PHP Notice:  Undefined index: pincode in /home/jagadishdeore77/public_html/project/image.php on line 22
+[03-Aug-2019 08:19:09 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/jagadishdeore77/public_html/project/image.php on line 34
+[03-Aug-2019 08:19:15 UTC] PHP Notice:  Undefined index: firstname in /home/jagadishdeore77/public_html/project/image.php on line 5
+[03-Aug-2019 08:19:15 UTC] PHP Warning:  imagecreatefromjpeg(.jpeg): failed to open stream: No such file or directory in /home/jagadishdeore77/public_html/project/image.php on line 8
+[03-Aug-2019 08:19:15 UTC] PHP Notice:  Undefined index: firstname in /home/jagadishdeore77/public_html/project/image.php on line 16
+[03-Aug-2019 08:19:15 UTC] PHP Notice:  Undefined index: lastname in /home/jagadishdeore77/public_html/project/image.php on line 16
+[03-Aug-2019 08:19:15 UTC] PHP Notice:  Undefined index: email in /home/jagadishdeore77/public_html/project/image.php on line 17
+[03-Aug-2019 08:19:15 UTC] PHP Notice:  Undefined index: phone in /home/jagadishdeore77/public_html/project/image.php on line 18
+[03-Aug-2019 08:19:15 UTC] PHP Notice:  Undefined index: district in /home/jagadishdeore77/public_html/project/image.php on line 19
+[03-Aug-2019 08:19:15 UTC] PHP Notice:  Undefined index: village in /home/jagadishdeore77/public_html/project/image.php on line 20
+[03-Aug-2019 08:19:15 UTC] PHP Notice:  Undefined index: date in /home/jagadishdeore77/public_html/project/image.php on line 21
+[03-Aug-2019 08:19:15 UTC] PHP Notice:  Undefined index: pincode in /home/jagadishdeore77/public_html/project/image.php on line 22
+[03-Aug-2019 08:19:15 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/jagadishdeore77/public_html/project/image.php on line 34
